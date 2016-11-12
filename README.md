@@ -1,3 +1,4 @@
+#นายพชรนันท์ จันทร์รักษ์ 57030198
 #ใบงานที่ 2 การเพิ่ม Message Map ลงในโปรแกรม Win32 API
 
 ##วัตถุประสงค์
@@ -100,6 +101,9 @@
 1.	นักศึกษาพบปัญหาในการคอมไพล์โปรแกรมหรือไม่ ถ้าเจอให้บอกที่ผิดและแนวทางการแก้ไข
   * ตอบ ไม่พบปัญหาในการคอมไพล์โปรแกรมครับ 
   
+  
+  
+#นายพชรนันท์ จันทร์รักษ์ 57030198
 ##อ้างอิง
 
 
@@ -123,5 +127,3 @@
 * [DefWindowProc function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms633572(v=vs.85).aspx)
 * [PostQuitMessage function](https://msdn.microsoft.com/en-us/library/windows/desktop/ms644945(v=vs.85).aspx)
  
-
-
